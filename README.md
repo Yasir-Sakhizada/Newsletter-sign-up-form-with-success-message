@@ -75,8 +75,3 @@ function submitEmail(e) {
   }
 }
 ```
-
-## Author
-
-- Frontend Mentor - [@josh76543210](https://www.frontendmentor.io/profile/josh76543210)
-- Twitter - [@josh76543210](https://www.twitter.com/josh76543210)
